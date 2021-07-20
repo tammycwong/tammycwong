@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <a href="https://tammycwong.medium.com/"><img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" height="36px" alt="medium"/></a>
 <a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
 <a href="https://instagram.com/handsome_awkwrd/"><img src="https://i.pinimg.com/736x/2c/da/19/2cda1925dcf4fb8f0644413f49671ffa.jpg" width="40px" alt="instagram"/></a>
-<img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/resume-14-386641.png" height=36px>
+<a href="https://drive.google.com/file/d/1mVSW03tMzV3_sazf7ktHaP9j8zSeR81d/view?usp=sharing"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/resume-14-386641.png" alit="resume" height=36px/></a>
