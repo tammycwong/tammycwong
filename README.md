@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Salutations, wanderer 👋
+## Salutations, wanderer 👋
 ❗ This is where I open source stuff and break things -- WELCOME!
 <br>
 ❗ My name is Tammy, my friends call me Tammy, you can call me Tammy
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-#### Programming Languages:
+## Programming Languages:
 <a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px"></a>
 <a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px"/></a>
 <a href=""><img src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg" width="50px"></a>
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-Is your name wi-fi? 
+<b>Is your name wi-fi? </b>
 <br>
-Because I'm really feeling your connection 😉
+<i>Because I'm really feeling your connection</i> 😉
 <br>
 <a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
 <a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium"/></a>
