@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 ❗ My name is Tammy, my friends call me Tammy, you can call me Tammy 😇 
 <br>
-❗ I am a creative full stack developer who loves to build fun and moderately marketable project
+❗ I am a creative full stack developer who loves to build fun and moderately marketable projects
 <br>
 <br>
 #### Currently I am: 
