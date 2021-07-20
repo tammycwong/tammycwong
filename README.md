@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 <br>
 ❗ My name is Tammy, my friends call me Tammy, you can call me Tammy 😇 
 <br>
-❗ I am a creative full stack developer who loves to build fun and very mildly (but sometimes moderately) marketable projects
+❗ I am a creative full stack developer who loves to build fun and very mildly (but sometimes moderately) marketable projects: 
+<br>
+🌟 <a href="https://loo-review.netlify.app/">Loo Review</a>: New York City
+<br>
+🌟 <a href="https://moviesfrom2004.netlify.app/">All Movies</a> (but only from 2004)
+<br>
+🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a>
 <br>
 <br>
 #### Currently I am: 
