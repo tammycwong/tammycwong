@@ -29,12 +29,22 @@ Here are some ideas to get you started:
 🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a> (demo)
 <br>
 <br>
-#### Currently I am: 
+<b>Currently I am:</b>
+<br>
 🌱  Practicing data structures and algorithms 
 <br>
 💻  Working on a neopets reboot application
 <br>
 🧑‍🤝‍🧑 Looking to collaborate on projects 
+<br>
+<br>
+
+#### Programming Languages:
+<a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px"></a>
+<a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px"/></a>
+<a href=""><img src="https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF.jpg" width="50px"></a>
+<a href=""><img src="https://avatars.githubusercontent.com/u/4223" width="50px"></a>
+
 <br>
 <br>
 
