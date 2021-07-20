@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 🌟 <a href="https://moviesfrom2004.netlify.app/">All Movies</a> (but only from 2004)
 <br>
-🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a>
+🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a> (demo)
 <br>
 <br>
 #### Currently I am: 
