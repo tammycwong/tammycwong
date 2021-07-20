@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Salutations, wanderer 👋
 ❗ This is where I open source stuff and break things -- WELCOME!
 <br>
-❗ My name is Tammy, my friends call me Tammy, you can call me Tammy 😇 
+❗ My name is Tammy, my friends call me Tammy, you can call me Tammy
 <br>
 ❗ I am a creative full stack developer who loves to build fun and very mildly (but sometimes moderately) marketable projects: 
 <br>
