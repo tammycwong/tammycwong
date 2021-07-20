@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-#### Is your name wi-fi? 
+Is your name wi-fi? 
+<br>
+Because I'm really feeling your connection 😉
+<br>
 <a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
 <a href="https://tammycwong.medium.com/"><img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" height="36px" alt="medium"/></a>
 <a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
 <a href="https://instagram.com/handsome_awkwrd/"><img src="https://i.pinimg.com/736x/2c/da/19/2cda1925dcf4fb8f0644413f49671ffa.jpg" width="40px" alt="instagram"/></a>
 <!-- <a href="https://drive.google.com/file/d/1G9WLL-stBE9C3I_G_QYII-vsZDusVt0_/view?usp=sharing"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/resume-14-386641.png" alit="resume" height=36px/></a> -->
-#### Because I'm really feeling your connection 😉
