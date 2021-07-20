@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 💻  Working on a neopets reboot application
 <br>
-🧑‍🤝‍🧑 Looking to collaborate on more open source projects 
+🧑‍🤝‍🧑 Looking to collaborate on projects 
 <br>
 <br>
 
