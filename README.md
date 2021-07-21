@@ -14,6 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+<img align="left" src="https://i.ibb.co/xH9cvWm/tammemoji.png" height="300px">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<i>Because I'm really feeling your connection</i> 😉
+<br>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
+&nbsp;&nbsp;
+<a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium"/></a>
+&nbsp;&nbsp;
+<a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram"/></a>
 
 ## Salutations, wanderer 👋
 ❗ This is where I open source stuff and break things -- WELCOME!
@@ -57,7 +78,7 @@ Here are some ideas to get you started:
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" width="50px"></a>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50px"></a>
 
-<br>
+<!-- <br>
 <br>
 <img align="left" src="https://i.ibb.co/xH9cvWm/tammemoji.png" height="300px">
 <br>
@@ -77,5 +98,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 <a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram"/></a>
+<a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram"/></a> -->
+
+
 <!-- <a href="https://drive.google.com/file/d/1G9WLL-stBE9C3I_G_QYII-vsZDusVt0_/view?usp=sharing"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/resume-14-386641.png" alit="resume" height=36px/></a> -->
