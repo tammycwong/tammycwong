@@ -39,16 +39,26 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Programming Languages:
+## Programming Competencies:
+<b>Languages:</b>
+<br>
 <a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px"></a>
 <a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px"/></a>
 <a href=""><img src="https://dctacademy.com/wp-content/uploads/2015/06/ruby-logo.png" width="50px"></a>
 <a href=""><img src="https://avatars.githubusercontent.com/u/4223" width="50px"></a>
 
+<b>Tools:</b>
 <br>
-<br>
+<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNIiVbLD2LxaOybacm_noD5ZpcMVAbYTkWJsyME14AQCj5k5q4YfrJXSKb9Zk7rLdiq4&usqp=CAU" width="50px"></a>
+<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s6FFL15jY-l58vmTMK6zSsrjJOLWsQRC3H6H6gwbFuTp6ZR-0e_SyFg8fcs4QwHsoJY&usqp=CAU" height="50px"></a>
+<a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4oI4_teaKLJpbj_99OnLE5LKkbVyVo7giroQ6ovjXK4YTXxqZ0vRgoTLmX23NqFcapw&usqp=CAU" height="45px"></a>
 
-<b>Is your name wi-fi? </b>
+<br>
+<br>
+<img align="left" src="https://i.ibb.co/cTZCgQJ/Screenshot-20210720-193729-AR-Emoji-Stickers-1.jpg" height="300px">
+<br>
+<br>
+<br>
 <br>
 <i>Because I'm really feeling your connection</i> 😉
 <br>
