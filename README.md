@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://i.ibb.co/cTZCgQJ/Screenshot-20210720-193729-AR-Emoji-Stickers-1.jpg" height="300px">
 <br>
 <br>
-<br>
-<br>
 <i>Because I'm really feeling your connection</i> 😉
 <br>
 <a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
