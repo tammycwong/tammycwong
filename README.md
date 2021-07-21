@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 💻&nbsp; Working on a Neopets reboot application
 <br>
-🧑‍🤝‍🧑&nbsp; Looking to collaborate on projects 
+🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
 <br>
 
