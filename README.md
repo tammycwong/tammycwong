@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <br>
 <b>Currently I am:</b>
 <br>
-🌱  Practicing data structures and algorithms 
+🌱&nbsp; Practicing data structures and algorithms 
 <br>
-💻  Working on a neopets reboot application
+💻&nbsp; Working on a Neopets reboot application
 <br>
-🧑‍🤝‍🧑 Looking to collaborate on projects 
+🧑‍🤝‍🧑&nbsp; Looking to collaborate on projects 
 <br>
 <br>
 
