@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 💬&nbsp; Trying to seamlessly say "accountabilabuddy" 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>P.S: I make a really great one
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>P.S: I make a really great one</i>
 <br>
 
 
