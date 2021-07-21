@@ -23,13 +23,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 <i>Because I'm really feeling your connection</i> 😉
 <br>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
 &nbsp;&nbsp;
 <a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium"/></a>
@@ -37,6 +33,12 @@ Here are some ideas to get you started:
 <a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram"/></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## Salutations, wanderer 👋
 ❗ This is where I open source stuff and break things -- WELCOME!
@@ -61,6 +63,7 @@ Here are some ideas to get you started:
 🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
 <br>
+
 
 ## Programming Competencies:
 <b>Languages:</b>
