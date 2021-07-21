@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Salutations, wanderer 👋
-❗ This is where I open source stuff and break things -- WELCOME!
+❗ This is where I open-source stuff and break things -- WELCOME!
 <br>
 ❗ My name is Tammy, my friends call me Tammy, you can call me Tammy
 <br>
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <br>
 &nbsp;&nbsp;&nbsp;🌟 <a href="https://tammycwong.github.io/my-website/">Life In Quarantine</a> (Flatiron School pre-work)
 <br>
+<br>
 <b>Currently I am:</b>
 <br>
 🌱&nbsp; Practicing data structures and algorithms 
@@ -39,6 +40,9 @@ Here are some ideas to get you started:
 <br>
 🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
+💬&nbsp; Trying to seamlessly say "accountabilabuddy" 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>P.S: I make a really great one
 <br>
 
 
@@ -71,9 +75,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
+<br>
 <i>Because I'm really feeling your connection</i> 😉
 <br>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
 &nbsp;&nbsp;
 <a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium"/></a>
