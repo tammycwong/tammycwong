@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<img align="left" src="https://i.ibb.co/cTZCgQJ/Screenshot-20210720-193729-AR-Emoji-Stickers-1.jpg" height="300px">
+<img align="left" src="https://i.ibb.co/7yjCR3f/Screenshot-20210720-205155-AR-Emoji-Stickers.png" height="300px">
 <br>
 <br>
 <i>Because I'm really feeling your connection</i> 😉
