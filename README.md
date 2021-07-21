@@ -49,24 +49,24 @@ Here are some ideas to get you started:
 ## Programming Competencies:
 <b>Languages:</b>
 <br>
-<a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px"></a>
-<a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px"/></a>
-<a href=""><img src="https://dctacademy.com/wp-content/uploads/2015/06/ruby-logo.png" width="50px"></a>
-<a href=""><img src="https://avatars.githubusercontent.com/u/4223" width="50px"></a>
+<a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px" alt="HTML, CSS, JavaScript" title="HTML, CSS, JavaScript"></a>
+<a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px" alt="React" title="React"></a>
+<a href=""><img src="https://dctacademy.com/wp-content/uploads/2015/06/ruby-logo.png" width="50px" alt="Ruby" title="Ruby"></a>
+<a href=""><img src="https://avatars.githubusercontent.com/u/4223" width="50px" alt="Ruby on Rails" title="Ruby on Rails"></a>
 
 <b>Tools:</b>
 <br>
-<a href=""><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50px"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="50px"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="45px"></a>
-<a href=""><img src="https://jwt.io/img/pic_logo.svg" width="50px"></a>
-<a href=""><img src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/48_github-512.png" width="55px"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" width="50px"></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50px"></a>
+<a href=""><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50px" alt="PostgreSQL" title="PostgreSQL"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="50px" alt="SQLite" title="SQLite"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" height="45px" alt="Figma" title="Figma"></a>
+<a href=""><img src="https://jwt.io/img/pic_logo.svg" width="50px" alt="JWT" title="JWT"></a>
+<a href=""><img src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/48_github-512.png" width="55px" alt="GitHub" title="GitHub"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" width="50px" alt="Adobe Creative Cloud" title="Adobe Creative Cloud"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50px" alt="Git" title="Git"></a>
 
 <br>
 <br>
-<img align="left" src="https://i.ibb.co/xH9cvWm/tammemoji.png" height="300px">
+<img align="left" src="https://i.ibb.co/xH9cvWm/tammemoji.png" height="300px" alt="tammy emoji" title="Tammy emoji">
 <br>
 <br>
 <br>
@@ -79,13 +79,13 @@ Here are some ideas to get you started:
 <i>Because I'm really feeling your connection</i> 😉
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in"/></a>
+<a href="https://linkedin.com/in/tammycwong"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height= "36px" alt="linked in" title="LinkedIn"/></a>
 &nbsp;&nbsp;
-<a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium"/></a>
+<a href="https://tammycwong.medium.com/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" height="36px" alt="medium" title="Medium"/></a>
 &nbsp;&nbsp;
-<a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email"/></a>
+<a href="mailto: tammycwong@gmail.com"><img src="https://www.freeiconspng.com/thumbs/gmail-icon/communication-gmail-icon-3.png" width="36px" height="36px" alt="email" title="E-Mail"/></a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram"/></a>
+<a href="https://instagram.com/handsome_awkwrd/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="40px" alt="instagram" title="Instagram"/></a>
 
 
 <!-- <a href="https://drive.google.com/file/d/1G9WLL-stBE9C3I_G_QYII-vsZDusVt0_/view?usp=sharing"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/resume-14-386641.png" alit="resume" height=36px/></a> -->
