@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNIiVbLD2LxaOybacm_noD5ZpcMVAbYTkWJsyME14AQCj5k5q4YfrJXSKb9Zk7rLdiq4&usqp=CAU" width="50px"></a>
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6s6FFL15jY-l58vmTMK6zSsrjJOLWsQRC3H6H6gwbFuTp6ZR-0e_SyFg8fcs4QwHsoJY&usqp=CAU" height="50px"></a>
 <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi4oI4_teaKLJpbj_99OnLE5LKkbVyVo7giroQ6ovjXK4YTXxqZ0vRgoTLmX23NqFcapw&usqp=CAU" height="45px"></a>
+<a href=""><img src="https://jwt.io/img/pic_logo.svg" width="50px"></a>
+<a href=""><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" width="50px"></a>
 
 <br>
 <br>
