@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br>
 &nbsp;&nbsp;&nbsp;🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a> (demo)
 <br>
+&nbsp;&nbsp;&nbsp;🌟 <a href="https://tammycwong.github.io/my-website/">Life In Quarantine</a> (Flatiron School pre-work)
 <br>
 <b>Currently I am:</b>
 <br>
