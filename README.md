@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <a href="https://pkmn-memory-game.netlify.app/"> Pokemon Memory Game</a>
 <br>
 
-<br>
-<br>
 <b>Currently I am:</b>
 <br>
 🌱&nbsp; Practicing data structures and algorithms 
