@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <br>
 ❗ I am a creative full stack developer who loves to build fun and very mildly (but sometimes moderately) marketable projects: 
 <br>
+&nbsp;&nbsp;&nbsp;🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a> (demo)
+<br>
 &nbsp;&nbsp;&nbsp;🌟 <a href="https://loo-review.netlify.app/">Loo Review</a>: New York City
 <br>
 &nbsp;&nbsp;&nbsp;🌟 <a href="https://moviesfrom2004.netlify.app/">All Movies</a> (but only from 2004)
-<br>
-&nbsp;&nbsp;&nbsp;🌟 <a href="https://www.youtube.com/watch?v=ca_MXxI3P6c">PalCal</a> (demo)
 <br>
 &nbsp;&nbsp;&nbsp;🌟 <a href="https://tammycwong.github.io/my-website/">Life In Quarantine</a> (Flatiron School pre-work)
 <br>
