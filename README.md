@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 🌱&nbsp; Practicing data structures and algorithms 
 <br>
-💻&nbsp; Working on a Neopets reboot application
+💻&nbsp; Working on my portfolio
 <br>
 🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
