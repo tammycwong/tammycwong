@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br>
 
 
-## Programming Competencies:
+## Programming Techniques:
 <b>Languages:</b>
 <br>
 <a href=""><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px" alt="HTML, CSS, JavaScript" title="HTML, CSS, JavaScript"></a>
