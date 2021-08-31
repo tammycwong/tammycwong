@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 🌱&nbsp; Practicing data structures and algorithms 
 <br>
-💻&nbsp; Working on my portfolio
+💻&nbsp; Working on a classical app with cohort mate
 <br>
 🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
