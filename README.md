@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> Post Bootcamp Apps: </i>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <a href="https://pkmn-memory-game.netlify.app/"> Pokemon Memory Game</a>
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ <a href="https://whack-a-diglett.netlify.app/">Whack-a-Diglett</a>
 <br>
 
