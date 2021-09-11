@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 🌱&nbsp; Practicing data structures and algorithms 
 <br>
-💻&nbsp; Working on a classical app with cohort mate
+💻&nbsp; Working on MERN stack
 <br>
 🧑‍🤝‍🧑&nbsp; Looking to collaborate on more projects
 <br>
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 <a href=""><img src="https://www.rapiddg.com/sites/default/files/imce-files/react.png" width="50px" alt="React" title="React"></a>
 <a href=""><img src="https://dctacademy.com/wp-content/uploads/2015/06/ruby-logo.png" width="50px" alt="Ruby" title="Ruby"></a>
 <a href=""><img src="https://avatars.githubusercontent.com/u/4223" width="50px" alt="Ruby on Rails" title="Ruby on Rails"></a>
+<a href=""><img src="https://www.pinclipart.com/picdir/big/336-3367489_mongodb-mongodb-nosql-logo-clipart.png" width="80px" alt="mongoDB" title="mongoDB"></a>
 
 <b>Tools:</b>
 <br>
@@ -69,6 +70,8 @@ Here are some ideas to get you started:
 <a href=""><img src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/48_github-512.png" width="55px" alt="GitHub" title="GitHub"></a>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1200px-Adobe_Creative_Cloud_rainbow_icon.svg.png" width="50px" alt="Adobe Creative Cloud" title="Adobe Creative Cloud"></a>
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width="50px" alt="Git" title="Git"></a>
+<a href=""><img src="https://www.seekpng.com/png/full/80-803529_vector-javascript-node-js-jpg-black-and-white.png" width="100px" alt="Node.js" title="Node.js"></a>
+
 
 <br>
 <br>
